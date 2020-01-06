@@ -34,3 +34,5 @@ Une montée de version sans interruption se base sur un principe de rétro-compa
  - Une redirection du trafic vers le serveur v2 (Serveur v2, Base v2).
 	 
 ## Architecture et facteur qualité
+
+Comme évoqué dans la partie Résumé, la montée de version sans interruption de service permet de rendre plus fiable le service proposé. Dans le cas de Mirakl, l'adoption de ce workflow leur a permis de drastiquement réduire la quantité de hotfix à déployer sur leur application, réduisant par ce biais le risque d'erreur du serveur résultant en interruption de service, cette fois involontaire.
