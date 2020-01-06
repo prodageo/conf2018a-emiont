@@ -2,19 +2,16 @@
 
 ## Cartouche d'identification
 
- - Manifestation : CodeursEnSeine 2017
- - Lieu : Université de Rouen - site du Madrillet
- - Conférence : ...
- - Horaire de la conférence : ...
- - Durée de la conférence : ...
+ - Manifestation : CodeursEnSeine 2019
+ - Lieu : Kindarena
+ - Conférence : Montée de version sans interruption
+ - Horaire de la conférence : 14h30
+ - Durée de la conférence : 50 minutes
  - Conférencier(s) :
-   - ... (lien vers au moins un réseau social : LinkedIn, Twitter, site personnel, ...)
-   - ...
- - Audience : ...
- - Auteur du billet : ...
- - Mots-clés
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+   - Nelson Dionisi, Lead Developer chez Mirakl (https://github.com/ndionisi, https://www.linkedin.com/in/nelson-dionisi-84a00472/)
+ - Audience : ~100 personnes
+ - Auteur du billet : Thibaut EMION
+ - Mots-clés : SaaS, Continuous Delivery, Migrations
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence
@@ -25,4 +22,3 @@
 ...
 
 ## Architecture et facteur qualité
-...
